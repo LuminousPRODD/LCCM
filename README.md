@@ -10,3 +10,6 @@ My discord tag: Luminous PRODD#1936
 
 The config download:
 (you need a seperate loadstring don't use normal vxpe loadstring use the one below)
+
+
+**Changelogs** 

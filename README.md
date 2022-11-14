@@ -1,5 +1,5 @@
 # LCCM
-Luminous Config
+**Luminous Config**
 
 Join the discord: https://discord.gg/3k3ZvCD8KY
 

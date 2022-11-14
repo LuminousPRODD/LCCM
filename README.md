@@ -16,3 +16,4 @@ Then just execute the loadstring in the folder or below and done!
 # Changelogs
 11/14/2022
 Edited the readme.md section
+Adding custom modules later :trollface:

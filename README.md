@@ -1,5 +1,5 @@
 # CCCM
-stands fo
+stands for Concorus Config Custom Modules
 **Concorus Config**
 
 Join the discord: https://discord.gg/3k3ZvCD8KY
